@@ -1,0 +1,23 @@
+{
+  "description": "This NFT proofs that I am a Blockchain Dev who loves Apes", 
+  "external_url": "https://alchemy.com", 
+  "image": "https://ipfs.filebase.io/ipfs/QmNfvdYEGQA9AM5mSKXRHzJz2GA8nwSxpAs75DuJvdQs2F", 
+  "name": "ERC721 Super Duper",
+  "attributes": [
+    {
+      "trait_type": "Cool NFT", 
+      "value": "Starfish"
+    }, 
+    {
+      "trait_type": "Immobile", 
+      "value": "Big"
+    }, 
+    {
+      "trait_type": "Token Standard", 
+      "value": "ERC721"
+    }
+     
+   
+  ]
+
+}
